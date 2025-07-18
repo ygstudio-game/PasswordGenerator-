@@ -1,7 +1,7 @@
 # Enhanced Password Generator - React Component
 
-![Password Generator Screenshot](screenshot1.png)
-![Password Generator Screenshot](screenshot2.png)
+![Password Generator Screenshot](Screenshot1.png)
+![Password Generator Screenshot](Screenshot2.png)
 
 ## Overview
 
