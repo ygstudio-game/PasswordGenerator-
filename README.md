@@ -1,6 +1,7 @@
 # Enhanced Password Generator - React Component
 
-![Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot](screenshot1.png)
+![Password Generator Screenshot](screenshot2.png)
 
 ## Overview
 
@@ -108,10 +109,8 @@ The component calculates password strength based on:
 - React (v17+)
 - [react-icons](https://react-icons.github.io/react-icons/)
 
-## License
+<!-- ## License -->
 
-This project is open-source and available under the [MIT License](LICENSE).
+<!-- This project is open-source and available under the [MIT License](LICENSE). -->
 
 ---
-
-**Note**: Add a screenshot of your component in the same directory as this README named `screenshot.png` to display the interface preview.
